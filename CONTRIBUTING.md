@@ -42,7 +42,7 @@ and
 [easy](https://github.com/alacritty/alacritty/issues?q=is%3Aopen+is%3Aissue+label%3A%22D+-+easy%22)
 issues.
 
-You can find the minimum supported Rust version in Alacritty's manifest file
+You can find the Minimum Supported Rust Version (MSRV) in Alacritty's manifest file
 (`cat alacritty/Cargo.toml | grep "rust-version"`). Alacritty **must** always
 build with the MSRV and bumping it should be avoided if possible.
 
